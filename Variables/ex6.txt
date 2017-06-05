@@ -1,0 +1,1 @@
+It tells you that the variable or method 'shoes' is not available to be called on because it is outside the scope that is calling on it or that is not defined.

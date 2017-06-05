@@ -1,0 +1,1 @@
+The first example prints 3 to the screen, but because x is not available outside of the scope of the block it gives and error on the second one.
