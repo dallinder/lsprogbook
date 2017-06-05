@@ -1,0 +1,5 @@
+1. The return is 1 
+    the arr = [["b", 1], ["b", 2], ["b", 3], ["a", 1], ["a", 2], ["a", 3]]
+
+2. The return is [1, 2, 3]
+    the arr = [["b"], ["a", [1, 2, 3]]]
