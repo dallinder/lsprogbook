@@ -1,0 +1,1 @@
+the first one is a symbol and the second one is a string
