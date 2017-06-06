@@ -1,0 +1,1 @@
+I like docs.rubydocs.org. It has a really nice searchable toolbar on the left that makes it easier to find and navigate the doc.
